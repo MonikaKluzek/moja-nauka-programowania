@@ -13,7 +13,7 @@ cena_za_kg = 6.99
 
 koszt_bananow = waga * cena_za_kg
 
-print("Dzisiaj zapłaciłam za banany", round(koszt_bananow, 2), "pln")
+print("Dzisiaj zapłaciłam za banany", round(koszt_bananow, 2), "pln")```
 
 * **Sukces dnia:** Pierwszy działający skrypt
 Napisałam program `obliczanie_ceny.py`, który:
